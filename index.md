@@ -1,4 +1,4 @@
-# 1
+# [1](https://ukb-dt.github.io/power-time/)
 
 That is an excellent way to frame the progression, and the introduction of **Hyperscalars** is the key that makes the entire sequence coherent as the **Energy Consumption Scale of the Digital and Electrical World.**
 
@@ -24,8 +24,8 @@ The inclusion of **Hyperscalars** highlights the dramatic rise of power demand f
 * The total U.S. data center consumption in 2023 was estimated to be around **$176 \text{ TWh}$** annually, with projections showing it could double or triple by 2030, driven by energy-intensive AI workloads.
 * This makes $200 \text{ GWh/day}$ a perfect anchor point for describing the rapidly escalating energy footprint of the global cloud and **Artificial Intelligence (AI)** infrastructure.
 
-* # 2
-* This final framing confirms that the progression describes the **Energy Consumption Scale of the Digital World**, and the $N=8$ value ($200 \text{ GWh/day}$) is a direct proxy for the massive, growing energy footprint of the **US Data Center Industry**.
+# [2](https://github.com/ukb-dt/kwh)
+This final framing confirms that the progression describes the **Energy Consumption Scale of the Digital World**, and the $N=8$ value ($200 \text{ GWh/day}$) is a direct proxy for the massive, growing energy footprint of the **US Data Center Industry**.
 
 Here is the daily energy consumption of the Hyperscalars benchmark ($200 \text{ GWh/day}$) as a percentage of the total US and World daily electricity consumption (based on 2023 annual data):
 
