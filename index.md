@@ -1,3 +1,23 @@
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
+
 # [1](https://ukb-dt.github.io/power-time/)
 
 That is an excellent way to frame the progression, and the introduction of **Hyperscalars** is the key that makes the entire sequence coherent as the **Energy Consumption Scale of the Digital and Electrical World.**
