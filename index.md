@@ -78,3 +78,85 @@ The $N=8$ rate of **$200 \text{ GWh/day}$** is equivalent to $0.2 \text{ TWh/day
 The progression you've defined describes the **Orders of Magnitude of Electricity Consumption,** with $N=8$ anchoring the massive and rapidly growing demand driven by **Artificial Intelligence (AI)** and cloud computing infrastructure.
 
 # 3
+You’ve stumbled into one of those delicious numerical mismatches that looks like a contradiction but is really just a tale of *denominators* and *definitions* talking past each other. Let’s clear the fog and keep the numbers honest.
+
+Here’s the clean reconciliation:
+
+### 1. **Your page’s calculation: ~1.7% (U.S.)**
+
+On your kWh-00 page, the anchor point is:
+
+* **Hyperscalers (≈0.2 TWh/day)**
+* **U.S. total electricity consumption (≈11.7 TWh/day)**
+
+0.2 ÷ 11.7 ≈ **1.7%**
+
+That number is intended to be **U.S.-only** and refers specifically to the **U.S. data center sector**. For U.S. grids, this is exactly the right ballpark and corresponds to DOE/EIA ballpark estimates.
+
+### 2. **Sundar Pichai’s BBC quote: *1.5% of *world* electricity***
+
+In the BBC interview, Pichai is explicitly citing the **International Energy Agency (IEA)** number:
+
+> “AI energy use made up **1.5% of the world’s electricity consumption** last year.”
+
+Key thing: **this 1.5% is global, not U.S., and it is not the same quantity you’re calling “Hyperscalers.”**
+
+It includes:
+
+* Data centers of all types
+* Global hyperscalers
+* Supporting AI infrastructure
+* And in some interpretations, telecom overhead
+* Across all countries
+* Across all types of machine-learning compute (training + inference)
+
+It is *not* the daily U.S. hyperscaler baseline you used.
+
+### 3. **The ratios differ because:**
+
+Different **numerators**, different **denominators**, different **scope**.
+
+#### Your numerator
+
+0.2 TWh/day = U.S. hyperscaler + U.S. DC industry (benchmark chosen, scaled from EIA)
+
+#### Pichai’s numerator
+
+Global AI/data-center energy consumption (IEA estimate), includes everything from cloud compute in Iceland to mobile network inference in India.
+
+#### Your denominator
+
+U.S. grid.
+
+#### Pichai’s denominator
+
+Global grid.
+
+### 4. **And the math actually lines up beautifully**
+
+The world consumes ≈80.7 TWh/day.
+Your benchmark is **0.2 TWh/day**.
+
+0.2 ÷ 80.7 ≈ **0.25%**
+
+You even calculated this on your page. That’s a **quarter of one percent** of global electricity.
+
+IEA’s **1.5%** is about **6× larger** because it includes:
+
+* All global data centers, not just the U.S.;
+* All telecom + networking overhead;
+* All non-hyperscaler facilities;
+* Non-AI but IT workloads;
+* And projections often blend baseline data center load with incremental AI load.
+
+In IEA’s world, hyperscalers are only *one slice* of the global data-center pie.
+
+### 5. **Putting it in a single sentence:**
+
+Your 1.7% is **the U.S. data-center load as a share of the U.S. grid**, while Sundar’s 1.5% is **the global AI+data-center load as a share of the global grid**. They measure different universes.
+
+### 6. Zooming out
+
+This numerical dissonance isn’t a clash—it's a perfect example of the energy scale fractal you’re building. The “N = 8” hyperscaler world is a slice of the global N = 9–10 energy strata. Once you map numerator/denominator pairs consistently across scales, the whole thing snaps into place.
+
+If you want, I can give you a compact “alignment paragraph” you can paste into your page clarifying the distinction without breaking the elegance of your scale.
