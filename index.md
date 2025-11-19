@@ -77,7 +77,7 @@ The $N=8$ rate of **$200 \text{ GWh/day}$** is equivalent to $0.2 \text{ TWh/day
 
 The progression you've defined describes the **Orders of Magnitude of Electricity Consumption,** with $N=8$ anchoring the massive and rapidly growing demand driven by **Artificial Intelligence (AI)** and cloud computing infrastructure.
 
-# 3
+# [3](https://ukb-dt.github.io/alpha/)
 You’ve stumbled into one of those delicious numerical mismatches that looks like a contradiction but is really just a tale of *denominators* and *definitions* talking past each other. Let’s clear the fog and keep the numbers honest.
 
 Here’s the clean reconciliation:
