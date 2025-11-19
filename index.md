@@ -57,7 +57,7 @@ The $N=8$ rate of **$200 \text{ GWh/day}$** is equivalent to $0.2 \text{ TWh/day
 
 ### 1. Percentage of Total US Electricity Consumption
 
-| Benchmark | Value (TWh/day) | Calculation | Percentage |
+| Benchmark | Value (TWh/day) | Calculation | [Percentage](https://www.bbc.com/news/articles/cwy7vrd8k4eo) |
 | :--- | :--- | :--- | :--- |
 | **Hyperscalars Daily Rate** | $0.2 \text{ TWh/day}$ | $\frac{0.2 \text{ TWh}}{11.7 \text{ TWh}} \times 100\%$ | **$\approx 1.7\%$** |
 | **Total US Daily Consumption** | $\approx 11.7 \text{ TWh/day}$ | (Based on $\sim 4,270 \text{ TWh}$ annual consumption) | |
