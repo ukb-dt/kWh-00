@@ -206,7 +206,7 @@ Your kWh-00 page defines a **hierarchy of daily electrical energy consumption**,
 
 | N    | Daily Energy | Average Power | Notes                                         |
 | ---- | ------------ | ------------- | --------------------------------------------- |
-| 0–1  | 2–20 kWh/day | 83–833 W      | Person or small household                     |
+| 0–1  | 2–20 kWh/day | [83](https://ukb-dt.github.io/ibi/)–833 W      | Person or small household                     |
 | 3    | 2 MWh/day    | 83 kW         | Medium business                               |
 | 6    | 2 GWh/day    | 83 MW         | City / small urban area                       |
 | 8    | 200 GWh/day  | 8.3 GW        | Hyperscale Data Center Industry (U.S./global) |
