@@ -26,7 +26,7 @@ The progression is a hierarchy of **Daily Electrical Energy Consumption Rate ($2
 
 ***
 
-## 🌐 The Energy Scale of the Digital World
+## 🌐 The [Energy Scale](https://ukb-dt.github.io/gpu/) of the Digital World
 
 | Exponent ($N$) | Daily Rate ($2 \times 10^N \text{ kWh/day}$) | Equivalent Rate (Daily) | What it Might Describe |
 | :---: | :---: | :---: | :--- |
